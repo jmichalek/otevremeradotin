@@ -2,7 +2,7 @@
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments:	true
+highlighter: pygments
 
 # Permalinks
 permalink:	/:title
@@ -12,6 +12,8 @@ title:		Otevřeme Radotín
 tagline:	'blog'
 description:	"Volební sdružení Pirátů, KDU-ČSL a nezávislých kandidátů do zastupitelstva Městské části Praha 16"
 url:		http://www.otevremeradotin.cz
+longitude:     '49.9835664'
+latitude:      '14.3596986'
 
 author:
   name:		'Jakub Michálek'
@@ -22,6 +24,7 @@ paginate:	5
 # Custom vars
 icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
+preview:    /assets/images/preview.jpg
 
 social:
   - icon:	facebook
@@ -30,7 +33,7 @@ social:
 
   - icon:	github
     url:	https://github.com/jmichalek/otevremeradotin
-    desc:	Založte novou větev na githubu
+    desc:	Zobrazte zdroj této stránky nebo ji recyklujte
 
   - icon:	feed
     url:	http://www.otevremeradotin.cz/atom.xml
