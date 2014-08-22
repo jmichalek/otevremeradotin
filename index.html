@@ -20,8 +20,9 @@ title: Home
 {% for page in sorted_pages %}
 
 {% assign filename = page.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '' %}
-
+         {% if page.image %}
 		   <img src="/media/candidates/thumbnails/{{ filename }}.jpg" class="candidate" title="{{ page.title }}">
+         {% endif %}         
          <div class="post-text">
          <div class="circle-text">{{ page.number }}.</div> místo na kandidátce
 			<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
