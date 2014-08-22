@@ -1,0 +1,52 @@
+# Dependencies
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Otevřeme Radotín
+tagline:	'blog'
+description:	"Volební sdružení Pirátů, KDU-ČSL a nezávislých kandidátů
+
+do zastupitelstva Městské části Praha 18"
+url:		http://www.otevremeradotin.cz
+
+author:
+  name:		'Jakub Michálek'
+  url:		https://www.pirati.cz/lide/jakub_michalek
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	facebook
+    url:	https://facebook.com/smidak
+    desc:	Sledujte mě na facebooku
+
+  - icon:	github
+    url:	https://github.com/jmichalek
+    desc:	Založte novou větev na githubu
+
+  - icon:	feed
+    url:	http://www.jmichalek.cz/atom.xml
+    desc:	Odběr aktualit
+    
+menu:
+  - title:	Úvod
+    url:	/
+    
+  - title:	Program
+    url:	/blog/program
+
+    
+copyright:
+  author:	Jakub Michálek
+  url:		/blog/copyright
+  type_title:	Všechna práva vyhlazena. Sdílejte a nechte sdílet za stejných podmínek
