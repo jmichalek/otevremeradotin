@@ -10,7 +10,6 @@
 
 4. Profily kandidátů se vkládají do složky ``_post``. V profilech je třeba nastavit správně číslo na kandidátce, citát a relativní cestu k obrázku. V postech můžete používat i tučné písmo nebo jiné formátování v [syntaxi markdown](http://www.edgering.org/markdown/).
 
-
 5. Fotografie kandidátů se vkládají do složky ``media/candidates/``. Doporučený tvar fotografie je A4 naležato s šířkou aspoň 1000 px (poměr výšky a šířky je přibližně 0.71). 
 
 6. Miniatury fotografií zobrazované na kandidátní listině se skladují v adresáři ``media/candidates/thumbnails``, kam je vytvoří příkaz ``media/candidates/generate_thumbnails.sh``, který je třeba spustit. Komprimaci souborů v tomto příkazu zajišťuje program ``imagemagick``, který lze nainstalovat příkazem ``sudo apt-get install imagemagick``.
