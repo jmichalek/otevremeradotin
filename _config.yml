@@ -25,15 +25,15 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	facebook
-    url:	https://facebook.com/smidak
-    desc:	Sledujte mě na facebooku
+    url:	https://facebook.com/otevremeradotin
+    desc:	Sledujte nás na facebooku
 
   - icon:	github
-    url:	https://github.com/jmichalek
+    url:	https://github.com/jmichalek/otevremeradotin
     desc:	Založte novou větev na githubu
 
   - icon:	feed
-    url:	http://www.jmichalek.cz/atom.xml
+    url:	http://www.otevremeradotin.cz/atom.xml
     desc:	Odběr aktualit
     
 menu:
@@ -46,5 +46,5 @@ menu:
     
 copyright:
   author:	Jakub Michálek
-  url:		/copyright
-  type_title:	Všechna práva vyhlazena. Sdílejte a nechte sdílet za stejných podmínek
+  type_url:		/cited
+  type_title:	Použité materiály

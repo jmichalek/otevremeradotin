@@ -87,7 +87,6 @@ img {
 	font-style: italic;
 	font-size: 24px;
 	line-height: 24px;
-	text-align: justify;
 	font-weight: lighter;
 	margin: 15px 0px;
 }
@@ -307,7 +306,7 @@ pre code {
 
 .social-links {
 	width: auto;
-	top: 20px;
+	bottom: 20px;
 	right: 20px;
 	position: absolute;
 	z-index: 2;
@@ -442,9 +441,7 @@ pre code {
 .copyright {
 	color: inherit;
 	font-size: 14px;
-	text-transform: uppercase;
-	bottom: 10px;
-	position: absolute;
+	float: right;
 }
 
 .copyright a {
