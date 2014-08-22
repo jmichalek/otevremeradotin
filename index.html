@@ -18,7 +18,10 @@ title: Home
 
 {% assign sorted_pages = (site.posts | where: "category", "candidate" | sort: 'number') %}
 {% for page in sorted_pages %}
-		   <img src="{{ page.image }}" class="candidate" title="{{ page.title }}">
+
+{% assign filename = page.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '' %}
+
+		   <img src="/media/candidates/thumbnails/{{ filename }}.jpg" class="candidate" title="{{ page.title }}">
          <div class="post-text">
          <div class="circle-text">{{ page.number }}.</div> místo na kandidátce
 			<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
