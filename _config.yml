@@ -11,9 +11,7 @@ permalink:	/:title
 title:		Otevřeme Radotín
 tagline:	'blog'
 description:	"Volební sdružení Pirátů, KDU-ČSL a nezávislých kandidátů s podporou Strany zelených do zastupitelstva Městské části Praha 16"
-url:		http://www.otevremeradotin.cz
-longitude:     '49.9835664'
-latitude:      '14.3596986'
+url:		http://otevremeradotin.cz
 
 author:
   name:		'Jakub Michálek'
