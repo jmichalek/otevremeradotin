@@ -5,14 +5,12 @@ redcarpet:
 pygments:	true
 
 # Permalinks
-permalink:	/blog/:title
+permalink:	/:title
 
 # Setup
 title:		Otevřeme Radotín
 tagline:	'blog'
-description:	"Volební sdružení Pirátů, KDU-ČSL a nezávislých kandidátů
-
-do zastupitelstva Městské části Praha 18"
+description:	"Volební sdružení Pirátů, KDU-ČSL a nezávislých kandidátů do zastupitelstva Městské části Praha 16"
 url:		http://www.otevremeradotin.cz
 
 author:
@@ -43,10 +41,10 @@ menu:
     url:	/
     
   - title:	Program
-    url:	/blog/program
+    url:	/program
 
     
 copyright:
   author:	Jakub Michálek
-  url:		/blog/copyright
+  url:		/copyright
   type_title:	Všechna práva vyhlazena. Sdílejte a nechte sdílet za stejných podmínek

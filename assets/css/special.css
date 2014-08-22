@@ -19,7 +19,7 @@ float:left;
 
 
 img.candidate {
-width:20%;
+width:45%;
 display:inline;
 float:left;
 margin-right: 0.7em;
@@ -31,4 +31,5 @@ background-color:rgba(0,0,0,0.4);
 padding:0.5em; 
 }
 
-#home-title h1 { font-size:350%;}
+#home-title h1 { font-size:350%; margin-bottom:0px;}
+#home-title div.title-description {width:62%;margin-left:19%;margin-right:19%}
