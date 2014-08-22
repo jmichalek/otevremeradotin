@@ -2,7 +2,7 @@
 
 *Jednoduchý a volně šiřitelný web pro kandidátní listinu do voleb v České republice a volební program.*
 
-1. Pro správu webu a zobrazování na vlastním počítači je třeba mít nainstalovaný ``jekyll``. To uděláte v Ubuntu příkazem ``sudo apt-get install jekyll``.
+1. Pro správu webu a zobrazování na vlastním počítači je třeba mít nainstalovaný ``jekyll`` podle [návodu](http://jekyllrb.com/docs/installation/).
 
 2. Web stáhnete příkazem ``git clone https://github.com/jmichalek/otevremeradotin.git``.
 
