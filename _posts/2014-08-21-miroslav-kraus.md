@@ -2,7 +2,7 @@
 layout: post
 title: "Miroslav Kraus"
 quote: Otevřeme Radotín veřejným účetnictvím města
-image: 
+image: /media/candidates/miroslav-kraus.jpg
 category: candidate
 number: 1
 tags: piráti
