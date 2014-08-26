@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Martin Rozumek"
-quote: Otevřeme Radotín kultuře
+quote: Otevřeme Radotín zdravému životnímu prostředí
 image: /media/candidates/martin-rozumek.jpg
 category: candidate
 number : 7
@@ -9,4 +9,4 @@ tags: zelení
 video: false
 ---
 
-**JUDr. Martin Rozumek**, 39 let, ředitel neziskové organizace OPU. 
+**JUDr. Martin Rozumek**, oslavil 39. narozeniny a je ředitelem neziskové organizac pro pomoc uprchlíkům v Praze. Kandiduje s podporou Strany zelených.
