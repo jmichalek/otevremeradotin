@@ -40,6 +40,7 @@ padding:0.5em;
   white-space: nowrap;
   /* top left corner */
   position: absolute;
+  z-index: 10;
   right: -40px;
   top: 30px;
   /* 45 deg ccw rotation */

@@ -106,10 +106,9 @@ img {
 }
 
 #home-title {
-	height: 150px;
 	text-align: center;
 	left: 50%;
-	top: 35%;
+	top: 15%;
 	position: absolute;
 	z-index: 1;
 }
@@ -236,16 +235,30 @@ blockquote, pre, .message {
 	padding: 10px 18px;
 	margin: 0px 0px 30px -20px;
 	margin-top: inherit;
-	color: #7a7a7a;
-}
-
-blockquote {
-	border-left: 10px solid #C7F66A;
 }
 
 blockquote p {
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+blockquote {
+  background: #f9f9f9;
+  margin: 1.5em 10px;
+  border-left: 10px solid #ccc;
+  padding: 0.5em 10px;
+  quotes: "\201E""\201C""\201A""\2018";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: 0.05em;
+}
+blockquote p {
+  display: inline;
 }
 
 .message {
@@ -305,7 +318,7 @@ pre code {
 }
 
 .social-links {
-	width: auto;
+	width: 10%;
 	bottom: 20px;
 	right: 20px;
 	position: absolute;
@@ -440,8 +453,17 @@ pre code {
 
 .copyright {
 	color: inherit;
-	font-size: 14px;
+	font-size: 16px;
 	float: right;
+   clear:left;
+   padding:5px;
+   text-align:left;
+   overflow:hidden;
+   
+}
+
+div.copyright img {
+   margin-right:3px;   
 }
 
 .copyright a {
