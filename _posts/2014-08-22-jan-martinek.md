@@ -10,7 +10,7 @@ video: false
 ---
 
 > Jako zastupitel se chci zasadit o zřízení bezbariérového přístupu ke II. nástupišti na nádraží.
-Navrhnu zřízení městského muzea, specificky zaměřeného nejen na geologické bohatství
+Navrhnu zřízení městského muzea, specificky zaměřeného nejen na geologické bohatství,
 ale i historii Radotína.
 
 V následujících letech se v Radotíně chystá mohutná revitalizace centra města, spojená s jeho

@@ -9,7 +9,7 @@ tags: zelení
 video: false
 ---
 
-> Je pro mě nepříjatelné, aby uměle vybudované stavby zasahovaly do přírodních
+> Je pro mě nepřijatelné, aby uměle vybudované stavby zasahovaly do přírodních
 mechanismů krajiny a ničily ji. Jsem proti výstavbě nového jezu na Berounce a
 zasadím se o ochranu životního prostředí v Radotíně.
 

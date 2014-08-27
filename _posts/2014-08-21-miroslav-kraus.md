@@ -10,7 +10,7 @@ video: false
 ---
 
 > Otevřený Radotín si představuji jako místo s průhlednějším hospodařením obce. Budu
-prosazovat spravedlivá a veřejná výběrová řízení. V neposlední řade se zasadím o
+prosazovat spravedlivá a veřejná výběrová řízení. V neposlední řadě se zasadím o
 dostupnost záznamů z jednání zastupitelstva online na Internetu.
 
 Zasadím se, aby každá koruna vynaložená zastupitelstvem byla dohledatelná online. Piráti mají
