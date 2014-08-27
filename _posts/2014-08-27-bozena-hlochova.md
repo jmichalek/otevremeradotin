@@ -2,7 +2,7 @@
 layout: post
 title: "Božena Hlochová"
 quote: Otevřeme Radotín zdravému životnímu prostředí
-image: /media/candidates/bozena.hlochova.jpg
+image: /media/candidates/bozena-hlochova.jpg
 category: candidate
 number: 9
 tags: zelení
