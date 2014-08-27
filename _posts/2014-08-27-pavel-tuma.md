@@ -9,4 +9,4 @@ tags: piráti
 video: false
 ---
 
-**Bc. Pavel Tůma** (43 let) je specialista pro vývoj softwaru. Vystudoval Vysokou školu managementu, informatiky a ekonomie VŠMIE v Praze. Dlouhodobě žije v Radotíně a mezi jeho koníčky patří rybaření, Umělecká a průmyslová fotografie a Astronomie.
+**Bc. Pavel Tůma** (43 let) je specialista pro vývoj softwaru. Vystudoval Vysokou školu managementu, informatiky a ekonomie VŠMIE v Praze. Dlouhodobě žije v Radotíně a mezi jeho koníčky patří rybaření, umělecká a průmyslová fotografie a astronomie.

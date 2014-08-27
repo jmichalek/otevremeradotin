@@ -9,7 +9,7 @@ tags: piráti
 video: false
 ---
 
-> Navrhnu úřadu používání svobodného počítačového softwaru s otevřeným
+> Navrhnu úřadu používat svobodný počítačový software s otevřeným
 zdrojovým kódem. Díky němu bude správa města bezpečnější a levnější. Pro
 pohodlnější čekání na vlak budu prosazovat WiFi hotspot na nádraží.
 
