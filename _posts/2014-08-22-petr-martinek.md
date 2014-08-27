@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Petr Martínek"
-quote: Otevřeme Radotín příjemnější dopravě
+quote: Otevřeme Radotín dostupnější dopravě
 image: /media/candidates/petr-martinek.jpg
 category: candidate
 number : 5
@@ -9,12 +9,15 @@ tags: kdu-čsl
 video: false
 ---
 
-> Byl jsem zastupitelem ve volebním období od r. 1998 do r. 2006. Jako jeden z významných problémů v Radotíně vidím nedostatečnost parkovacích míst, zejména v centru města. Zejména v oblasti Sídliště Berounka je v odpoledních a večerních hodinách téměř nemožno zaparkovat poblíž bydliště, a tato situace se ještě zhorší s realizací obnovy centra ve stávající podobě návrhů. Proto se chci zasadit o koncepční řešení této otázky s ohledem na občany, žijící v Radotíně. Radotín musí stát za zájmy svých občanů!
->
-> Jako zastupitel chci zejména prosadit:
->
-> *    parkování – garantované parkovací místo pro residenty, zejména v oblasti centra Radotína,
-> *    veřejná doprava – zlepšení dopravní obslužnosti starého sídliště, posílení nočních spojů.
+> Budu se snažit prosadit dostatek parkovacích míst pro residenty. Mimo to budu také
+usilovat o zlepšení dopravní obslužnosti Starého sídliště a posílení nočních spojů.
+
+Byl jsem zastupitelem ve volebním období od r. 1998 do r. 2006. Jako jeden z významných problémů
+v Radotíně vidím nedostatečnost parkovacích míst, zejména v centru města. Především v oblasti
+Sídliště, Berounka je v odpoledních a večerních hodinách téměř nemožno zaparkovat poblíž bydliště,
+a tato situace se ještě zhorší s realizací obnovy centra ve stávající podobě návrhů. Proto se chci
+zasadit o koncepční řešení této otázky s ohledem na občany, žijící v Radotíně. Radotín musí stát za
+zájmy svých občanů!
 
 **Petr Martínek** (* 19. srpna 1961) je řidič MHD původem z Plzně. Od konce 80. let 20. století žije v Praze 16 v lokalitě náměstí Osvoboditelů. Zasedá ve farní radě římskokatolické farnosti sv. Petra a Pavla, aktivně se podílí na jejím životě – organizuje lokální Tříkrálovou sbírku. 
 
