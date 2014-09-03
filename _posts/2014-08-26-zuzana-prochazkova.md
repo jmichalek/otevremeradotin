@@ -9,4 +9,4 @@ tags: kdu-čsl
 video: false
 ---
 
-**Zuzana Procházková**, 57 let, učitelka klavíru a zástupkyně ředitele Základní umělecké školy v Radotíně. 
+**Zuzana Procházková**, (57 let) je učitelka klavíru a zástupkyně ředitele Základní umělecké školy v Radotíně. Dlouhodobě pracuje jako členka školské a kulturní komise při Úřadu městské části Praha 16 - Radotín. Je podporovatelkou KDU-ČSL.
