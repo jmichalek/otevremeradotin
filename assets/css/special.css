@@ -5,13 +5,14 @@ img.logo-strany {height:40px; margin:5px;border:0px;}
 .circle-text
 {
 width:1.5em;
-height:1.5em;
-border-radius:50%;
+height:1.8em;
 font-size:1em;
 color:#fff;
-line-height:1.5em;
+line-height:1.8em;
 text-align:center;
-background:#2a7ead;
+background:url('/assets/images/slozka.jpg');
+background-size: 1.4em 1.8em;
+background-repeat: no-repeat;
 margin-right: 0.2em;
 display:inline-block;
 float:left;
