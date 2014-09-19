@@ -11,7 +11,7 @@ video: false
 
 > Navrhnu úřadu používat svobodný počítačový software s otevřeným
 zdrojovým kódem. Díky němu bude správa města bezpečnější a levnější. Pro
-pohodlnější čekání na vlak budu prosazovat WiFi hotspot na nádraží.
+pohodlnější čekání na vlak budu prosazovat WiFi hotspot na nádraží. V neposlední řadě se zasadím o postupné zavedení Montessori pedagogiky v Radotíně.
 
 Otevřenému Radotínu nesmí chybět open source. Jde o počítačový software s otevřeným
 zdrojovým kódem, který se dá uplatnit v každé kanceláři úřadu. Správa naší městské části by
