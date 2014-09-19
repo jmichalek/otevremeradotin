@@ -26,7 +26,7 @@ V neposlední řadě udělám vše proto, aby na frekventovaných místech Radot
 dostupné WiFi hotspoty, kde by se lidé mohli připojit na své smartphony či tablety bezplatně
 na Internet.
 
-Montessoriovská škola je mateřská nebo základní škola, jež se řídí zásadami, které navrhla italská lékařka a pedagožka Maria Montessori (1870-1952). Tento systém vychází z potřeb dítěte. Děti vstřebávají zcela přirozeně a nenuceně znalosti ze svého bezprostředního okolí a učí se mezi sebou. Výchova probíhá jako realizace svobody dítěte, které má více možností rozvíjet tvořivé síly.
+**Montessoriovská škola** je mateřská nebo základní škola, jež se řídí zásadami, které navrhla italská lékařka a pedagožka Maria Montessori (1870-1952). Tento systém vychází z potřeb dítěte. Děti vstřebávají zcela přirozeně a nenuceně znalosti ze svého bezprostředního okolí a učí se mezi sebou. Výchova probíhá jako realizace svobody dítěte, které má více možností rozvíjet tvořivé síly.
 
 Učitel nebrání dítěti v získávání zkušeností a věnuje mu pozornost. Chová k dítěti respekt a staví se k němu, jako by jednal s dospělým člověkem. Učitel s žákem nemanipuluje a zaměřuje se na jeho kladné vlastnosti. Pedagog zároveň pomáhá a radí tam, kde je dítě nerozhodné. Maximální volnost udílí dítěti tehdy, když je schopno samo převzít zodpovědnost.
 
