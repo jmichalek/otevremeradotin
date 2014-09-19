@@ -35,6 +35,9 @@ padding:0.5em;
 #home-title h1 { font-size:350%; margin-bottom:0px;}
 #home-title div.title-description {width:62%;margin-left:19%;margin-right:19%}
 
+div#home-title {z-index:1;}
+div.menu-content{z-index:10;}
+
 .ribbon {
   background-color: #a00;
   overflow: hidden;
