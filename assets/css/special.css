@@ -28,12 +28,10 @@ margin-bottom: 0.2em;
 }
 
 div#home-title, div#post-info {
-background-color:rgba(0,0,0,0.4);
-padding:0.5em; 
+background-color:rgba(0,0,0,0.3);
 }
 
 #home-title h1 { font-size:350%; margin-bottom:0px;}
-#home-title div.title-description {width:62%;margin-left:19%;margin-right:19%}
 
 div#home-title {z-index:1;}
 div.menu-content{z-index:10;}

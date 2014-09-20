@@ -50,7 +50,7 @@ a {
 }
 
 h1 {
-	margin-top: 30px;
+	margin-top: 0px;
 	font-size: 36px;
    font-family: "m_1pheavy";
    text-transform:uppercase;
@@ -107,8 +107,7 @@ img {
 
 #home-title {
 	text-align: center;
-	left: 50%;
-	top: 15%;
+	top: 66%;
 	position: absolute;
 	z-index: 1;
 }
@@ -318,7 +317,6 @@ pre code {
 }
 
 .social-links {
-	width: 10%;
 	bottom: 20px;
 	right: 20px;
 	position: absolute;
