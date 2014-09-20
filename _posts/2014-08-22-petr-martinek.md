@@ -10,11 +10,11 @@ video: false
 ---
 
 > Budu se snažit prosadit dostatek parkovacích míst pro residenty. Mimo to budu také
-usilovat o zlepšení dopravní obslužnosti Starého sídliště a posílení nočních spojů.
+usilovat o zlepšení dopravní obslužnosti Starého sídliště a posílení nočních spojů. Prioritou je také prodloužení linky 245 do oblasti ulic Zderazská a Na viničkách pro větší pohodlí obyvatel těchto lokalit.
 
 Byl jsem zastupitelem ve volebním období od r. 1998 do r. 2006. Jako jeden z významných problémů
 v Radotíně vidím nedostatečnost parkovacích míst, zejména v centru města. Především v oblasti
-Sídliště, Berounka je v odpoledních a večerních hodinách téměř nemožno zaparkovat poblíž bydliště,
+Sídliště Berounka je v odpoledních a večerních hodinách téměř nemožno zaparkovat poblíž bydliště,
 a tato situace se ještě zhorší s realizací obnovy centra ve stávající podobě návrhů. Proto se chci
 zasadit o koncepční řešení této otázky s ohledem na občany, žijící v Radotíně. Radotín musí stát za
 zájmy svých občanů!
