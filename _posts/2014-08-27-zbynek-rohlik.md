@@ -2,6 +2,7 @@
 layout: post
 title: "Zbyněk Rohlík"
 quote: Otevřeme Radotín veřejným účetnictvím města
+image: /media/candidates/zbynek.rohlik.jpg
 category: candidate
 number: 14
 tags: pirati
