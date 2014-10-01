@@ -26,6 +26,9 @@ article: true
 <div id="article">
 	{{ content }}
 </div>
+
+{% include comments.html %}
+
 <footer class="{% if post.dark %}dark{% else %}clean{% endif %}" style="background-image: url({% if post.image %}{{ post.image }}{% else %}{{ site.cover }}{% endif %});{% if post.background_position %} background-position: {{ post.background_position }};{% endif %}height: 75%; min-height: 500px;">
 	<div id="nav-icon" style="top: 25px;">
 		<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-collapse"></span></a>
