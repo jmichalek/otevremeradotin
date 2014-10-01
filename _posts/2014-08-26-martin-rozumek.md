@@ -9,6 +9,4 @@ tags: zelení
 video: false
 ---
 
-**JUDr. Martin Rozumek**, oslavil 39. narozeniny a je ředitelem neziskové Organizace pro pomoc uprchlíkům v Praze. V této organizaci pracuje již přes 7 let. 
-
-Martin Rozumek kandiduje s podporou Strany zelených do zastupitelstva Městské části Praha 16 - Radotín v komunálních volbách.
+**JUDr. Martin Rozumek**, oslavil 39. narozeniny a je ředitelem neziskové Organizace pro pomoc uprchlíkům v Praze. Kandiduje s podporou Strany zelených do zastupitelstva Městské části Prahy 16 v komunálních volbách.

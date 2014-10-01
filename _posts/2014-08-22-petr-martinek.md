@@ -10,7 +10,7 @@ video: false
 ---
 
 > Budu se snažit prosadit dostatek parkovacích míst pro residenty. Mimo to budu také
-usilovat o zlepšení dopravní obslužnosti Starého sídliště a posílení nočních spojů. Prioritou je také prodloužení linky 245 do oblasti ulic Zderazská a Na viničkách pro větší pohodlí obyvatel těchto lokalit.
+usilovat o zlepšení dopravní obslužnosti starého Sídliště a posílení nočních spojů. Prioritou je také prodloužení linky 245 do oblasti ulic Zderazská a Na viničkách pro větší pohodlí obyvatel těchto lokalit.
 
 Byl jsem zastupitelem ve volebním období od r. 1998 do r. 2006. Jako jeden z významných problémů
 v Radotíně vidím nedostatečnost parkovacích míst, zejména v centru města. Především v oblasti
