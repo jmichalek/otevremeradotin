@@ -13,18 +13,14 @@ video: false
 zdrojovým kódem. Díky němu bude správa města bezpečnější a levnější. Pro
 pohodlnější čekání na vlak budu prosazovat WiFi hotspot na nádraží. V neposlední řadě se zasadím o postupné zavedení Montessori pedagogiky v Radotíně.
 
-Otevřenému Radotínu nesmí chybět open source. Jde o počítačový software s otevřeným
+Otevřenému Radotínu nesmí chybět **open source**. Jde o počítačový software s otevřeným
 zdrojovým kódem, který se dá uplatnit v každé kanceláři úřadu. Správa naší městské části by
-proto mohla být nejenom bezpečnější, protože chyby ve svobodném softwaru je jednodušší odhalit, ale i levnější. Svobodný software se jednoduše a bezplatně stáhne z Internetu a úřad
-tak ušetří na placených programech a antivirech. Ušetřené peníze pak můžeme použít
-například pro rozvoj kultury v Radotíně.
+proto mohla být nejenom bezpečnější, protože chyby ve svobodném softwaru je jednodušší odhalit, ale i levnější. Svobodný software se jednoduše a bezplatně stáhne z Internetu a úřad tak ušetří na placených programech a antivirech. Ušetřené peníze pak můžeme použít například pro rozvoj Montessori pedagogiky v Radotíně.
 
-Internet také nabízí nové možnosti v komunikaci. Nikdy před tím to nebylo jednoduší. Proto
-budu usilovat o pravidelné pořádání internetových anket s dotazem na názory občanů. Tyto
-názory budou směrodatné a budou hrát důležitou roli při rozhodování zastupitelstva.
 V neposlední řadě udělám vše proto, aby na frekventovaných místech Radotína byly
-dostupné WiFi hotspoty, kde by se lidé mohli připojit na své smartphony či tablety bezplatně
+dostupné **otevřené WiFi hotspoty**, kde by se lidé mohli připojit na své smartphony či tablety bezplatně
 na Internet.
+
 
 **Montessoriovská škola** je mateřská nebo základní škola, jež se řídí zásadami, které navrhla italská lékařka a pedagožka Maria Montessori (1870-1952). Tento systém vychází z potřeb dítěte. Děti vstřebávají zcela přirozeně a nenuceně znalosti ze svého bezprostředního okolí a učí se mezi sebou. Výchova probíhá jako realizace svobody dítěte, které má více možností rozvíjet tvořivé síly.
 
