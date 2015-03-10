@@ -35,24 +35,3 @@ background-color:rgba(0,0,0,0.3);
 
 div#home-title {z-index:1;}
 div.menu-content{z-index:10;}
-
-.ribbon {
-  background-color: #a00;
-  overflow: hidden;
-  white-space: nowrap;
-  /* top left corner */
-  position: absolute;
-  z-index: 10;
-  right: -40px;
-  top: 30px;
-  /* 45 deg ccw rotation */
-  -webkit-transform: rotate(45deg);
-     -moz-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
-       -o-transform: rotate(45deg);
-          transform: rotate(45deg);
-  /* shadow */
-  -webkit-box-shadow: 0 0 10px #888;
-     -moz-box-shadow: 0 0 10px #888;
-          box-shadow: 0 0 10px #888;
-}
