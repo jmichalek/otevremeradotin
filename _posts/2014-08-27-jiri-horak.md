@@ -3,7 +3,7 @@ layout: post
 title: "Jiří Horák"
 quote: Otevřeme Radotín dostupnější dopravou
 category: candidate
-number: 11
+number: 12
 tags: KDU-ČSL
 video: false
 ---

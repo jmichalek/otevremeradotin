@@ -4,7 +4,7 @@ title: "Zuzana Procházková"
 quote: Otevřeme Radotín kultuře
 image: /media/candidates/zuzana-prochazkova.jpg
 category: candidate
-number : 6
+number : 7
 tags: kdu-čsl
 video: false
 ---

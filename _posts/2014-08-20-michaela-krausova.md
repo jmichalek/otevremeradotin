@@ -4,7 +4,7 @@ title: "Michaela Krausová"
 quote: Otevřeme Radotín svobodným softwarem
 image: /media/candidates/michaela-krausova.jpg
 category: candidate
-number : 3
+number : 4
 tags: piráti
 video: false
 ---

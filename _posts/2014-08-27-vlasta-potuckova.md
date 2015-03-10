@@ -4,7 +4,7 @@ title: "Vlasta Potůčková"
 quote: Otevřeme Radotín dostupnější dopravě
 image: /media/candidates/vlasta-potuckova.jpg
 category: candidate
-number: 15
+number: 16
 tags: KDU-ČSL
 video: false
 ---

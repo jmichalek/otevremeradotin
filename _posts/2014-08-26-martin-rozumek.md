@@ -4,7 +4,7 @@ title: "Martin Rozumek"
 quote: Otevřeme Radotín zdravému životnímu prostředí
 image: /media/candidates/martin-rozumek.jpg
 category: candidate
-number : 7
+number : 8
 tags: zelení
 video: false
 ---

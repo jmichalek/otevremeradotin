@@ -4,7 +4,7 @@ title: "Zbyněk Rohlík"
 quote: Otevřeme Radotín veřejným účetnictvím města
 image: /media/candidates/zbynek-rohlik.jpg
 category: candidate
-number: 14
+number: 15
 tags: pirati
 video: false
 ---
