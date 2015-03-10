@@ -4,7 +4,7 @@ title: "Josef Kázmer"
 quote: Otevřeme Radotín svobodným softwarem
 image: /media/candidates/josef-kazmer.jpg
 category: candidate
-number: 13
+number: 12
 tags: piráti
 video: false
 ---

@@ -4,7 +4,7 @@ title: "Jan Martínek"
 quote: Otevřeme Radotín kultuře
 image: /media/candidates/jan-martinek.jpg
 category: candidate
-number : 3
+number : 2
 tags: kdu-čsl
 video: false
 ---

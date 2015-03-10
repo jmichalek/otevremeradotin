@@ -4,7 +4,7 @@ title: "Adam Zábranský"
 quote: Otevřeme Radotín svobodným softwarem
 image: /media/candidates/adam-zabransky.jpg
 category: candidate
-number : 9
+number : 8
 video: false
 ---
 

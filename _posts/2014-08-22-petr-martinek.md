@@ -4,7 +4,7 @@ title: "Petr Martínek"
 quote: Otevřeme Radotín dostupnější dopravě
 image: /media/candidates/petr-martinek.jpg
 category: candidate
-number : 6
+number : 5
 tags: kdu-čsl
 video: false
 ---

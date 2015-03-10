@@ -4,7 +4,7 @@ title: "Pavel Tůma"
 quote: Otevřeme Radotín svobodným softwarem
 image: /media/candidates/pavel-tuma.jpg
 category: candidate
-number: 11
+number: 10
 tags: piráti
 video: false
 ---

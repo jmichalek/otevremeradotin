@@ -4,7 +4,7 @@ title: "Miroslav Kraus"
 quote: Otevřeme Radotín veřejným účetnictvím města
 image: /media/candidates/miroslav-kraus.jpg
 category: candidate
-number: 2
+number: 1
 tags: piráti
 video: false
 ---

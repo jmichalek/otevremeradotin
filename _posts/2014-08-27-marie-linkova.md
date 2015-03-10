@@ -4,7 +4,7 @@ title: "Marie Linkova"
 quote: Otevřeme Radotín kultuře
 image: /media/candidates/marie-linkova.jpg
 category: candidate
-number: 14
+number: 13
 tags: KDU-ČSL
 video: false
 ---

@@ -4,7 +4,7 @@ title: "Václav Vojíř"
 quote: Otevřeme Radotín zdravému životnímu prostředí
 image: /media/candidates/vaclav-vojir.jpg
 category: candidate
-number : 5
+number : 4
 tags: zelení
 video: false
 ---
