@@ -24,7 +24,7 @@ title: Home
 		   <img src="/media/candidates/thumbnails/{{ filename }}.jpg" class="candidate" title="{{ page.title }}">
          {% endif %}         
          <div class="post-text">
-         {% if page.number != 0 %} <div class="circle-text">{{ page.number }}.</div> místo na kandidátce {% endif %}
+         {% if page.number %} <div class="circle-text">{{ page.number }}.</div> místo na kandidátce {% endif %}
 			<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 			<p class="post-description">{{ page.content | strip_html | truncatewords: 30 }}</p>
 		</div>
